@@ -1,0 +1,16 @@
+/student_data.csv
+.venv/
+__pycache__/
+*.pyc
+
+mlruns/
+
+*.log
+
+.env
+
+.DS_Store
+
+.vscode/
+
+.pytest_cache/
